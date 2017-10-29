@@ -1,0 +1,33 @@
+
+p {
+	color: black;
+	font-size: 130%;
+	text-align: center;
+	text-decoration: none;
+}
+
+h2 {
+	color: black;
+	text-align: center;
+	font-family: "Simonetta", "Trebuchet MS", Arial, sans-serif;
+}
+
+ul {
+	list-style: none;
+	position: absolute;
+	top: 150px;
+	left: 350px;
+	text-align: center;
+}
+
+li {
+	padding: 5px;
+}
+#background {
+	width: 100%;
+	height: 100%;
+	z-index: -1;
+	position: absolute;
+	top: 0;
+	left: 0;
+}

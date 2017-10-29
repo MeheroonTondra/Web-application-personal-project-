@@ -1,0 +1,37 @@
+
+p {
+	color: black;
+	font-size: 130%;
+	text-align: center;
+	text-decoration: none;
+}
+
+h2 {
+	color: black;
+	text-align: center;
+	font-family: "Simonetta", "Trebuchet MS", Arial, sans-serif;
+}
+
+table {
+	margin-left: 50px;
+	margin-right: 50px;
+	border: thin solid black;
+	border-collapse: collapse;
+	width:90%;	
+}	
+td, th {		
+	border: thin solid black;
+	padding: 20px;
+	}
+
+th {
+	background-color: #c495f0;
+	}
+#background {
+	width: 100%;
+	height: 100%;
+	z-index: -1;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
